@@ -1,0 +1,9 @@
+.e-slider__item{
+ display: inline-block;
+ width: 200px;
+}
+
+.e-slider__item img{
+ width: 100%;
+ height: auto;
+}
